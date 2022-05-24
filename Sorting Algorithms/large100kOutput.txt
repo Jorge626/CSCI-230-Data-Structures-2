@@ -1,0 +1,66 @@
+Merge-Sort
+--------------
+Input file name: large100k.txt
+Number of values sorted: 100000
+Key Data Type: int
+Number of Key Compares: 1566353
+Number of Data Moves: 100057
+Runtime: 2004.82 ms
+First 5 Values: 1 2 3 4 5 
+Last 5 Values: 99996 99997 99998 99999 100000 
+
+Quick-Sort
+--------------
+Input file name: large100k.txt
+Number of values sorted: 100000
+Key Data Type: int
+Number of Key Compares: 1097343
+Number of Data Moves: 3491955
+Runtime: 1112.09 ms
+First 5 Values: 1 2 3 4 5 
+Last 5 Values: 99996 99997 99998 99999 100000 
+
+Quick-Sort 3
+--------------
+Input file name: large100k.txt
+Number of values sorted: 100000
+Key Data Type: int
+Number of Key Compares: 1080792
+Number of Data Moves: 3442506
+Runtime: 1097.43 ms
+First 5 Values: 1 2 3 4 5 
+Last 5 Values: 99996 99997 99998 99999 100000 
+
+Merge-Sort
+--------------
+Input file name: large100k.txt
+Number of values sorted: 100000
+Key Data Type: std::string
+Number of Key Compares: 1566415
+Number of Data Moves: 100057
+Runtime: 6603.49 ms
+First 5 Values: 1 10 100 1000 10000 
+Last 5 Values: 99995 99996 99997 99998 99999 
+
+Quick-Sort
+--------------
+Input file name: large100k.txt
+Number of values sorted: 100000
+Key Data Type: std::string
+Number of Key Compares: 1071958
+Number of Data Moves: 3415890
+Runtime: 3792.91 ms
+First 5 Values: 1 10 100 1000 10000 
+Last 5 Values: 99995 99996 99997 99998 99999 
+
+Quick-Sort 3
+--------------
+Input file name: large100k.txt
+Number of values sorted: 100000
+Key Data Type: std::string
+Number of Key Compares: 1071098
+Number of Data Moves: 3413520
+Runtime: 3823.56 ms
+First 5 Values: 1 10 100 1000 10000 
+Last 5 Values: 99995 99996 99997 99998 99999 
+

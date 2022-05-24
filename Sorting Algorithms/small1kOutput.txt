@@ -1,0 +1,88 @@
+Insertion-Sort
+--------------
+Input file name: small1k.txt
+Number of values sorted: 1000
+Key Data Type: int
+Number of Key Compares: 247370
+Number of Data Moves: 247371
+Runtime: 140.605 ms
+First 5 Values: 7 11 15 39 59 
+Last 5 Values: 8163 8167 8175 8183 8191 
+
+Merge-Sort
+--------------
+Input file name: small1k.txt
+Number of values sorted: 1000
+Key Data Type: int
+Number of Key Compares: 8711
+Number of Data Moves: 1031
+Runtime: 13.9232 ms
+First 5 Values: 7 11 15 39 59 
+Last 5 Values: 8163 8167 8175 8183 8191 
+
+Quick-Sort
+--------------
+Input file name: small1k.txt
+Number of values sorted: 1000
+Key Data Type: int
+Number of Key Compares: 5824
+Number of Data Moves: 19488
+Runtime: 8.8683 ms
+First 5 Values: 7 11 15 39 59 
+Last 5 Values: 8163 8167 8175 8183 8191 
+
+Quick-Sort 3
+--------------
+Input file name: small1k.txt
+Number of values sorted: 1000
+Key Data Type: int
+Number of Key Compares: 5977
+Number of Data Moves: 19899
+Runtime: 6.4996 ms
+First 5 Values: 7 11 15 39 59 
+Last 5 Values: 8163 8167 8175 8183 8191 
+
+Insertion-Sort
+--------------
+Input file name: small1k.txt
+Number of values sorted: 1000
+Key Data Type: std::string
+Number of Key Compares: 244350
+Number of Data Moves: 244356
+Runtime: 983.484 ms
+First 5 Values: 103 1035 1047 1055 1063 
+Last 5 Values: 955 959 987 99 995 
+
+Merge-Sort
+--------------
+Input file name: small1k.txt
+Number of values sorted: 1000
+Key Data Type: std::string
+Number of Key Compares: 8733
+Number of Data Moves: 1031
+Runtime: 38.9303 ms
+First 5 Values: 103 1035 1047 1055 1063 
+Last 5 Values: 955 959 987 99 995 
+
+Quick-Sort
+--------------
+Input file name: small1k.txt
+Number of values sorted: 1000
+Key Data Type: std::string
+Number of Key Compares: 6072
+Number of Data Moves: 20205
+Runtime: 22.632 ms
+First 5 Values: 103 1035 1047 1055 1063 
+Last 5 Values: 955 959 987 99 995 
+
+Quick-Sort 3
+--------------
+Input file name: small1k.txt
+Number of values sorted: 1000
+Key Data Type: std::string
+Number of Key Compares: 6078
+Number of Data Moves: 20205
+Runtime: 23.1098 ms
+First 5 Values: 103 1035 1047 1055 1063 
+Last 5 Values: 955 959 987 99 995 
+
